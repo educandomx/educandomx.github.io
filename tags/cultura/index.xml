@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultura on educando mx</title>
+    <link>https://educando.mx/tags/cultura/</link>
+    <description>Recent content in Cultura on educando mx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Wed, 03 May 2017 15:19:10 -0500</lastBuildDate>
+    
+	<atom:link href="https://educando.mx/tags/cultura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Filosofía para la cultura</title>
+      <link>https://educando.mx/post/filosofia-para-la-cultura/</link>
+      <pubDate>Wed, 03 May 2017 15:19:10 -0500</pubDate>
+      
+      <guid>https://educando.mx/post/filosofia-para-la-cultura/</guid>
+      <description>“En el mundo existe una contradicción entre las fuerzas del mercado y las fuerzas de la cultura” (2014:68); así reza la tesis 3 de Filosofía, ¿para qué? de Gabriel Vargas Lozano que se viene exponiendo desde hace unos post.
+La idea que esta tesis resume tiene que ver con lo que sucede en el mundo globalizado, tecnificado, industrializado donde lo importante es la cantidad, los resultados, la ganancia y la utilidad y no la calidad, el análisis, el proceso y lo que se aprende en este.</description>
+    </item>
+    
+  </channel>
+</rss>
