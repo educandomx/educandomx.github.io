@@ -1,0 +1,8 @@
+baseURL = "https://educando.mx/"
+
+languageCode = "es-mx"
+title = "educando mx"
+theme = "hugo-theme-bleak"
+
+[params]
+  cover = "images/cover.jpg"
