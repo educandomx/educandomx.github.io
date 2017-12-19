@@ -6,3 +6,9 @@ theme = "hugo-theme-bleak"
 
 [params]
   cover = "images/cover.jpg"
+  googleAnalyticsUserID = "UA-1895401-3"
+
+  [params.author]
+    firstName = "Eunice"
+    lastName = "Bernal"
+    twitter = "https://twitter.com/la_eunikes"
