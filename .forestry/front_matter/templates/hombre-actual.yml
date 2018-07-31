@@ -47,5 +47,6 @@ fields:
   name: Draft
   label: draft
 pages:
+- content/post/test.html
 - content/post/creatividad-y-decision-habilidades-limitadas-en-el-docente-en-formacion.md
 - content/post/2017-02-08-hombre.md
