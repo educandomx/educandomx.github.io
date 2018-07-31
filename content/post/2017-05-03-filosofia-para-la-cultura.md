@@ -1,22 +1,18 @@
 +++
-menu = ""
-tags = [
-  "Filosofía",
-  "Cultura",
-]
-image = ""
-comments = true
-share = true
-description = "En el mundo existe una contradicción entre las fuerzas del mercado y las fuerzas de la cultura"
-slug = "filosofia-para-la-cultura"
-title = "Filosofía para la cultura"
-featured = false
+Draft = false
 author = ""
+comments = true
 date = "2017-05-03T15:19:10-05:00"
-draft = false
+description = "En el mundo existe una contradicción entre las fuerzas del mercado y las fuerzas de la cultura"
+featured = false
+image = ""
+share = true
+slug = "filosofia-para-la-cultura"
+tags = ["Filosofía", "Cultura"]
+title = "Filosofía para la cultura"
+[menu.]
 
 +++
-
 **“En el mundo existe una contradicción entre las fuerzas del mercado y las fuerzas de la cultura”** (2014:68); así reza la tesis 3 de *Filosofía, ¿para qué?* de Gabriel Vargas Lozano que se viene exponiendo desde hace unos post.
 
 La idea que esta tesis resume tiene que ver con lo que sucede en el mundo globalizado, tecnificado, industrializado donde lo importante es la cantidad, los resultados, la ganancia y la utilidad y no la calidad, el análisis, el proceso y lo que se aprende en este.
@@ -31,32 +27,3 @@ Por otro lado, concuerdo con la UNESCO (2011) que bien expone que la enseñanza 
 La tarea de poner a la filosofía en el centro de la educación es difícil, pero no imposible. Si bien hay que remar contra corriente, no debe ser una tarea que se deje de lado. La filosofía debe tener un papel fundamental en el desarrollo y construcción de una sociedad que comienza con la educación, pero no solo la formal sino también la no formal.
 
 Recurso sugerido: http://unesdoc.unesco.org/images/0019/001926/192689S.pdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-  
