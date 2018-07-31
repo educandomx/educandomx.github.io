@@ -43,5 +43,8 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: boolean
+  name: Draft
+  label: draft
 pages:
 - content/post/creatividad-y-decision-habilidades-limitadas-en-el-docente-en-formacion.md
