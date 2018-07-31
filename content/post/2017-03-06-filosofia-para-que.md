@@ -1,19 +1,17 @@
 +++
-description = "La filosofía debe de ser un derecho de toda persona"
-image = ""
-date = "2017-03-06T12:15:24-06:00"
-featured = false
-share = true
 author = "Eunice Bernal"
 comments = true
+date = "2017-03-06T12:15:24-06:00"
+description = "La filosofía debe de ser un derecho de toda persona"
+featured = false
+image = ""
+share = true
 slug = "la-filosofia-un-derecho"
-menu = ""
-tags = ["Filosofía","Educación"]
+tags = ["Filosofía", "Educación"]
 title = "Filosofía ¿para qué?"
-draft = false
+[menu.]
 
 +++
-
 Retomando el título del libro de Gabriel Vargas Lozano (2014) nombro esta entrada para dar paso al comentario de las 10 tesis que conforman este libro sobre la importancia de la filosofía en la educación, la sociedad y la cultura.
 
 **Tesis 1. “La enseñanza de la filosofía debería ser reconocida como un aspecto esencial del derecho a la educación que debe recibir toda persona en cualquier parte del mundo”.(2014: 67)**
