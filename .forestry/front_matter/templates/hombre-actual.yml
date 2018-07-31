@@ -44,7 +44,7 @@ fields:
   hidden: false
   default: ''
 - type: boolean
-  name: Draft
+  name: draft
   label: draft
 pages:
 - content/post/2017-04-16-democracia-sociedad-y-filosofia.md
