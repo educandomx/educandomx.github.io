@@ -12,6 +12,6 @@ title = "Test2"
 +++
 Esto es otra prueba para ver cómo opera Forestry
 
-![](/uploads/Screen Shot 2018-04-17 at 12.00.08.png)
+![Hola](/uploads/Screen Shot 2018-04-17 at 12.00.08.png)
 
 Otra prueba más :-)
