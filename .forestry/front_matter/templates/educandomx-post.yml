@@ -18,5 +18,11 @@ fields:
   name: description
   label: Extracto
   description: Extracto del Post en portada
+- type: boolean
+  default: false
+  name: draft
+  label: Borrador
+  description: Es borrador
+  hidden: false
 pages:
 - content/post/creatividad-y-decision-habilidades-limitadas-en-el-docente-en-formacion.md
