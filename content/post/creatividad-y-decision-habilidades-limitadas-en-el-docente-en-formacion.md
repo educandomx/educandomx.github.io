@@ -1,7 +1,7 @@
 +++
 body = "a"
 date = "2018-07-31T15:32:43+00:00"
-tags = []
+tags = ["Filosofía", "Educación"]
 title = "Creatividad y decisión. Habilidades limitadas en el docente en formación."
 
 +++
