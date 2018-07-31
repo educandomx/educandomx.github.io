@@ -1,23 +1,17 @@
 +++
-share = true
+author = "Eunice Bernal"
 comments = true
 date = "2017-04-16T12:36:08-05:00"
-draft = false
-title = "Democracia, sociedad y Filosofía"
-menu = ""
-tags = [
-  "Filosofía",
-  "Sociedad",
-  "Democracia"
-]
-image = ""
-featured = false
 description = "La filosofía ligada a una sociedad democrática"
+featured = false
+image = ""
+share = true
 slug = "la-filosofia-ligada-sociedad-democratica"
-author = "Eunice Bernal"
+tags = ["Filosofía", "Sociedad", "Democracia"]
+title = "Democracia, sociedad y Filosofía"
+[menu.]
 
 +++
-
 Siguiendo con la reflexión en torno al libro de Gabriel Vargas Lozano (2014), la tesis 2 enuncia:
 
 **“el derecho a la filosofía está vinculado estrechamente con la conformación de una sociedad democrática”. (2014: 68)**
