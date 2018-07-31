@@ -14,5 +14,9 @@ fields:
   name: tags
   description: Etiquetas para el Post
   hidden: false
+- type: text
+  name: description
+  label: Extracto
+  description: Extracto del Post en portada
 pages:
 - content/post/creatividad-y-decision-habilidades-limitadas-en-el-docente-en-formacion.md
