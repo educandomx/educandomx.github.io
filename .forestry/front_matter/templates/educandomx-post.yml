@@ -1,0 +1,17 @@
+---
+label: EducandoMX Post
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  description: Cuerpo del Post
+  config:
+    required: true
+  label: Texto
+  name: body
+- type: text
+  label: Título
+  name: title
+  description: Título del Post
+  config:
+    required: true
