@@ -43,3 +43,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- content/post/creatividad-y-decision-habilidades-limitadas-en-el-docente-en-formacion.md
