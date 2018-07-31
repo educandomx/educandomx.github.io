@@ -1,16 +1,16 @@
 +++
-date = "2017-12-19T10:54:24-05:00"
-draft = false
-title = "Filosofía Crítica"
-slug = "filosofia-critica"
-tags = ["Filosofía","Educación"]
-image = ""
-comments = true	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""		# set "main" to add this content to the main menu
 author = "Eunice Bernal"
-featured = false
+comments = true
+date = "2017-12-19T10:54:24-05:00"
 description = "\"La filosofía puede cumplir básicamente dos funciones ideológicas\""
+featured = false
+image = ""
+share = true
+slug = "filosofia-critica"
+tags = ["Filosofía", "Educación"]
+title = "Filosofía Crítica"
+[menu.]
+
 +++
 Continuemos con la tesis 4 de **“Filosofía ¿para qué?”** De Gabriel Vargas Lozano, donde nos enuncia:
 
