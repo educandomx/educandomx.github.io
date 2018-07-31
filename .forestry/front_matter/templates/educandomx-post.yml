@@ -15,3 +15,5 @@ fields:
   description: Título del Post
   config:
     required: true
+pages:
+- content/post/creatividad-y-decision-habilidades-limitadas-en-el-docente-en-formacion.md
