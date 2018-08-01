@@ -47,6 +47,7 @@ fields:
   name: draft
   label: Draft
 pages:
+- content/post/test.md
 - content/post/2017-12-19-filosofia-critica.md
 - content/post/2017-04-16-democracia-sociedad-y-filosofia.md
 - content/post/creatividad-y-decision-habilidades-limitadas-en-el-docente-en-formacion.md
