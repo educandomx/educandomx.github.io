@@ -9,7 +9,6 @@ share = true
 slug = "filosofia-critica"
 tags = ["Filosofía", "Educación"]
 title = "Filosofía Crítica"
-[menu.]
 
 +++
 Continuemos con la tesis 4 de **“Filosofía ¿para qué?”** De Gabriel Vargas Lozano, donde nos enuncia:
