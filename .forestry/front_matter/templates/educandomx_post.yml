@@ -45,7 +45,7 @@ fields:
   default: ''
 - type: boolean
   name: draft
-  label: draft
+  label: Draft
 pages:
 - content/post/2017-12-19-filosofia-critica.md
 - content/post/2017-04-16-democracia-sociedad-y-filosofia.md
