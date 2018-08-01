@@ -9,7 +9,6 @@ share = true
 slug = "la-filosofia-un-derecho"
 tags = ["Filosofía", "Educación"]
 title = "Filosofía ¿para qué?"
-[menu.]
 
 +++
 Retomando el título del libro de Gabriel Vargas Lozano (2014) nombro esta entrada para dar paso al comentario de las 10 tesis que conforman este libro sobre la importancia de la filosofía en la educación, la sociedad y la cultura.
