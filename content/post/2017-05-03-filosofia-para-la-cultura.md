@@ -10,7 +10,6 @@ share = true
 slug = "filosofia-para-la-cultura"
 tags = ["Filosofía", "Cultura"]
 title = "Filosofía para la cultura"
-[menu.]
 
 +++
 **“En el mundo existe una contradicción entre las fuerzas del mercado y las fuerzas de la cultura”** (2014:68); así reza la tesis 3 de *Filosofía, ¿para qué?* de Gabriel Vargas Lozano que se viene exponiendo desde hace unos post.
